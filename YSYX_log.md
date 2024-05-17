@@ -785,26 +785,10 @@ Quartus提供了很多非常实用的IP核，利用这些IP核可以很方便的
 
 ### Notes:
 
-# Day35: 24/11
+# Day37: 24/5/17
 
 ### Record:
 
-### Notes:
-
-# Day35: 24/11
-
-### Record:
-
-### Notes:
-
-# Day35: 24/11
-
-### Record:
-
-### Notes:
-
-# Day35: 24/11
-
-### Record:
+1. 把涉及到reg的功能补完。
 
 ### Notes:
